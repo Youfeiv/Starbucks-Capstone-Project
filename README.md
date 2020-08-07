@@ -19,11 +19,12 @@ Jupyter notebook 3.0 version and plus should be enough to showcase the project
 
 Data file: Contains the 3 data table that we work on
 Starbucks_Capstone_notebook.ipynb : The Project Notebook
+Img file
 
 ## Results of the analysis
 
 <p align="left">
-  <img src="./img/Result.png " alt="Size Limit CLI" width="238">
+  <img src="./img/Result.png " alt="Size Limit CLI" width="438">
 </p>
 
 
