@@ -22,8 +22,10 @@ Starbucks_Capstone_notebook.ipynb : The Project Notebook
 
 ## Results of the analysis
 
-![Result](/Users/Yufei/Desktop/Capture\ d’écran\ 2020-08-07\ à\ 15.42.13.png)
-Format: ![Alt Text](url)
+<p align="center">
+  <img src="/Users/Yufei/Desktop/Capture\ d’écran\ 2020-08-07\ à\ 15.42.13.png" alt="Size Limit CLI" width="738">
+</p>
+
 
 
 ## Acknowlegements
