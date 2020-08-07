@@ -21,9 +21,9 @@ Jupyter notebook 3.0 version and plus should be enough to showcase the project
 
 ## Files in the repository
 
-Data file: Contains the 3 data table that we work on
-Starbucks_Capstone_notebook.ipynb : The Project Notebook
-Img file
+- Data file: Contains the 3 data table that we work on
+- Starbucks_Capstone_notebook.ipynb : The Project Notebook
+- Img file
 
 ## Results of the analysis
 
