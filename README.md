@@ -1,6 +1,8 @@
 # Starbucks-Capstone-Project
 
-Foobar is a Python library for dealing with word pluralization.
+This capstone project is to analyse customer behavior on the Starbucks rewards mobile app. 
+The data is constitued by 3 tables: transcript, portofolio and profile.
+We need to investigate, wrangle and clean the data in order to get interpretable findings to understand customers' behaviors. And thus segment customers to provide efficient offers.  
 
 ## Library
 
@@ -8,6 +10,8 @@ Sklearn: RandomForest, LogisticRegression etc
 
 ## Project Motivation
 
+The Starbucks Project is my Udacity Data Science Nano Degree Capstone Project. 
+I am interested in how data can help analyse customer behaviors, segment customers and thus improve business performance. 
 
 
 ## Installation
@@ -23,10 +27,13 @@ Img file
 
 ## Results of the analysis
 
+### Features Importance:
+Generally, for the user geographic variables, the seniority is the most important feature, followed by income and age. The sex is less important
+
+### Random Forest Model Performance
 <p align="left">
   <img src="./img/Result.png " alt="Size Limit CLI" width="438">
 </p>
-
 
 
 ## Acknowlegements
