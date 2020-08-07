@@ -23,7 +23,7 @@ Starbucks_Capstone_notebook.ipynb : The Project Notebook
 ## Results of the analysis
 
 <p align="center">
-  <img src="/Users/Yufei/DOSSIER/DATA\ SCIENCE/Udacity/Starbucks/Starbucks-Capstone-Project/Capture\ d’écran\ 2020-08-07\ à\ 15.42.13.png>
+  <img src="/Users/Yufei/DOSSIER/DATA\ SCIENCE/Udacity/Starbucks/Starbucks-Capstone-Project/Capture\ d’écran\ 2020-08-07\ à\ 15.42.13.png" alt="Size Limit CLI" width="738">
 </p>
 
 
