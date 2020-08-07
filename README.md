@@ -35,6 +35,8 @@ Generally, for the user geographic variables, the seniority is the most importan
   <img src="./img/Result.png " alt="Size Limit CLI" width="438">
 </p>
 
+Click here to see the Medium blog about this project: 
+[Offer What and To Whom? Starbuck Promotion User Behaviors Analysis](https://medium.com/@gezoe1207/offer-what-and-to-whom-70b400058fcf)
 
 ## Acknowlegements
 Thanks to [Udacity](https://www.udacity.com) to provide this project opportunity
