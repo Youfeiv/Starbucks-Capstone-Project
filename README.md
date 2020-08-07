@@ -22,8 +22,8 @@ Starbucks_Capstone_notebook.ipynb : The Project Notebook
 
 ## Results of the analysis
 
-<p align="center">
-  <img src="./Capture\ d’écran\ 2020-08-07\ à\ 15.42.13.png" alt="Size Limit CLI" width="738">
+<p align="left">
+  <img src="./img/Result.png " alt="Size Limit CLI" width="238">
 </p>
 
 
